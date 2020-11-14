@@ -1,0 +1,1 @@
+pyzbar[scripts]==0.1.8
